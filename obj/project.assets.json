@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\braun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\projeto.csproj",
+      "projectUniqueName": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj",
       "projectName": "projeto",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\projeto.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\obj\\",
+      "projectPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj",
+      "packagesPath": "C:\\Users\\braun\\.nuget\\packages\\",
+      "outputPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\braun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

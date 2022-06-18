@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj": {}
+    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj": {}
   },
   "projects": {
-    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj": {
+    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj",
-        "projectName": "projeto",
-        "projectPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\projeto.csproj",
+        "projectUniqueName": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj",
+        "projectName": "Projeto2",
+        "projectPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj",
         "packagesPath": "C:\\Users\\braun\\.nuget\\packages\\",
         "outputPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\obj\\",
         "projectStyle": "PackageReference",
@@ -18,15 +18,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -52,6 +52,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
