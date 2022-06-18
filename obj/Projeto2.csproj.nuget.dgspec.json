@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\Projeto2.csproj": {}
   },
   "projects": {
-    "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj": {
+    "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\Projeto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\Projeto2.csproj",
         "projectName": "Projeto2",
-        "projectPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\Projeto2.csproj",
-        "packagesPath": "C:\\Users\\braun\\.nuget\\packages\\",
-        "outputPath": "D:\\Coisas da formatação\\agendinha de tarefinhas\\Quarto período\\Programaçao Para Desktop\\Login\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\Projeto2.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\UTFPR\\4 PERIODO\\PD24S\\projetofinal\\projetoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
